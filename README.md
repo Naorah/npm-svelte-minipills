@@ -26,6 +26,18 @@ To use the Minipills component in your Svelte application, import it and configu
 <Minipills premade={premade} />
 ```
 
+## Utils
+
+Some links to help you !
+
+[![To REPL](https://minipills.pelsy.net/pill?1t=Test_on_svelte_REPL&l=svelte&1bc=FF3E00)](https://svelte.dev/repl/db37d20295c44c09971e2b63a68c9895?version=4.2.18)
+
+[![To Website](https://minipills.pelsy.net/pill?1t=Minipills_basement&l=minipills&1bc=A12613)](https://minipills.pelsy.net)
+
+[![To Discord](https://minipills.pelsy.net/pill?1t=Minipills_Discord&l=discord&1bc=5865F2)](https://discord.gg/dSnjfBAaQp)
+
+[![To Github](https://minipills.pelsy.net/pill?1t=To_Github&l=github)](https://github.com/Naorah/npm-svelte-minipills)
+
 ## Customization
 
 The Minipills component can be customized using the following props:
