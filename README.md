@@ -1,13 +1,13 @@
 # Minipills
 
-@naorah/svelte-minipills is a customizable Svelte component for generating pill-style UI elements. This component allows you to create pills with various texts, colors, and sizes, and can include a logo if desired.
+@naorah/minipills is a customizable Svelte component for generating pill-style UI elements. This component allows you to create pills with various texts, colors, and sizes, and can include a logo if desired.
 
 ## Installation
 
 To install the package, use npm :
 
 ```
-npm install @naorah/svelte-minipills
+npm install @naorah/minipills
 ```
 
 ## Usage
@@ -18,7 +18,7 @@ To use the Minipills component in your Svelte application, import it and configu
 
 ```svelte
 <script>
-  import Minipills from '@naorah/svelte-minipills';
+  import Minipills from '@naorah/minipills';
 
   let premade = "minipills";
 </script>
@@ -49,7 +49,7 @@ The Minipills component can be customized using the following props:
 
 ```svelte
 <script>
-  import Minipills from '@naorah/svelte-minipills';
+  import Minipills from '@naorah/minipills';
 
   let firstText = "Let's go";
   let firstTextColor = "ffffff";
@@ -87,4 +87,4 @@ The Minipills component can be customized using the following props:
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the CopyLeft License.

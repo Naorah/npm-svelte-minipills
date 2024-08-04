@@ -1,6 +1,12 @@
 {
 	"name": "@naorah/minipills",
 	"version": "0.0.2",
+	"description": "Create minipills with svelte !",
+	"homepage": "https://minipills.pelsy.net",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Naorah/npm-svelte-minipills.git"
+	},
 	"scripts": {
 		"dev": "vite dev",
 		"build": "vite build && npm run package",
@@ -39,6 +45,8 @@
 		"typescript": "^5.3.2",
 		"vite": "^5.0.11"
 	},
+	"author": "Naorah <nyx.naorah@proton.me>",
+  "license": "MIT",
 	"svelte": "./dist/index.js",
 	"types": "./dist/index.d.ts",
 	"type": "module"
